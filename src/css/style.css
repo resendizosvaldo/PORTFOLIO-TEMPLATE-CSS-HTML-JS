@@ -1,0 +1,66 @@
+p {
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
+    margin-right: 25px;
+}
+
+
+/*aplicar estilos a class*/
+
+.primer-elemento {
+    color: blueviolet;
+}
+
+
+/*aplicar estilos a ID*/
+
+#primero {
+    color: red;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-bar {
+    display: flex;
+}
+
+body {
+    font-family: poppins;
+}
+
+a {
+    text-decoration: none;
+}
+
+.titular {
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+a {
+    font-size: 14;
+    background: #5cb8ff;
+    color: white;
+    padding: 20px 30px 20px 30px;
+}
+
+header {
+    background: url();
+}
