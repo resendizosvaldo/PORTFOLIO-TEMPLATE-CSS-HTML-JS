@@ -11,10 +11,8 @@ _Estas instrucciones te ayudarán a obtener una copia del proyecto en funcionami
 
 _Necesitarás_
 
-```
-Un editor de codigo, te recomiendo Visual Studio Code lo puedes descargar de aquí: 
-* [Visual Studio Code](https://code.visualstudio.com/download) - Descargar
-```
+_Un editor de codigo, te recomiendo Visual Studio Code lo puedes descargar de aquí: 
+* [Visual Studio Code](https://code.visualstudio.com/download) - Descargar_
 
 ### Descarga 🔧
 
