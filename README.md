@@ -2,7 +2,7 @@
 # TEMPLATE PORTFOLIO MADE WITH CSS, HTML & JavaScript
 
 _Proyecto realizado con HTML, CSS Y JavaScript este template te servira si lo que deseas es comenzar con tu portfolio online donde muestres tus proyectos, skills y demas datos de valor como developer._
-
+* [DEMO](https://about.osvaldoresendizdev.tk) - Aquí podrás ver desplegada la web.
 ## Comenzando 🚀
 
 _Estas instrucciones te ayudarán a obtener una copia del proyecto en funcionamiento para que realizes los cambios y modificaciones que se adapten a tus necesidades._
@@ -11,8 +11,8 @@ _Estas instrucciones te ayudarán a obtener una copia del proyecto en funcionami
 
 _Necesitarás_
 
-_Un editor de codigo, te recomiendo Visual Studio Code lo puedes descargar de aquí: 
-* [Visual Studio Code](https://code.visualstudio.com/download) - Descargar_
+Un editor de codigo, te recomiendo Visual Studio Code lo puedes descargar de aquí: 
+* [Visual Studio Code](https://code.visualstudio.com/download) - Descargar
 
 ### Descarga 🔧
 
